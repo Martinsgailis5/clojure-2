@@ -1,14 +1,4 @@
 # lab_5_fp
 
-A Clojure library designed to ... well, that part is up to you.
+Pašlaik nestrādā, jo nesaprotu kā bez mutable mainīgajiem veido rail fence cypher + nesaprotams nullpointer exception
 
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2019 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
